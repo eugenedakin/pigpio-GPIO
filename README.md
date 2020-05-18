@@ -29,3 +29,6 @@ of wiringPi, a new book is being written that provides examples, explanations, a
 data for all of these recent changes. 
 
 The estimated time for the book to be released is the fall of 2020. 
+
+Version 1.0
+-Initial Version of pigpio-GPIO library (18 May 2020)
