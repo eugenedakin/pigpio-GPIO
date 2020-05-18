@@ -1,5 +1,14 @@
 # Xojo (formerly REALbasic and Real Studio)
 
-*.xojo_binary_project linguist-language=xojo
-*.xojo_xml_project linguist-language=xojo
-*.sln linguist-language=C++
+*.xojo_binary_project linguist-language=Xojo
+*.xojo_xml_project linguist-language=Xojo
+
+Builds*
+*.debug
+*.debug.app
+Debug*.exe
+Debug*/Debug*.exe
+Debug*/Debug*\ Libs
+*.rbuistate
+*.xojo_uistate
+*.obsolete
