@@ -9,6 +9,3 @@ Debug*/Debug*\ Libs
 *.rbuistate
 *.xojo_uistate
 *.obsolete
-
-*.xojo_binary_project linguist-language=Xojo
-*.xojo_xml_project linguist-language=Xojo
