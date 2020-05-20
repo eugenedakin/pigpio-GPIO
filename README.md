@@ -30,5 +30,9 @@ data for all of these recent changes.
 
 The estimated time for the book to be released is the fall of 2020. 
 
-Version 1.0
--Initial Version of pigpio-GPIO library (18 May 2020)
+Version 1.0 (18 May 2020)
+-Initial Version of pigpio-GPIO library
+
+Version 1.1 (19 May 2020)
+-The pigpio class was converted to an object to make the code very similar to 
+those examples used in Python. 
