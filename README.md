@@ -36,3 +36,14 @@ Version 1.0 (18 May 2020)
 Version 1.1 (19 May 2020)
 -The pigpio class was converted to an object to make the code very similar to 
 those examples used in Python. 
+
+v1.2 (20 May 2020)
+-Added many error constants (over 150)
+-Added gpio_read method
+-Added gpioSetPullUpDown method and constants
+
+v1.3 (29 May 2020)
+-Added gpioInitialise
+-Added hardware_PWM
+-Added gpioPWM
+-Added gpioSetPWMRange
