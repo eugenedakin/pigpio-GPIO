@@ -38,9 +38,9 @@ Version 1.1 (19 May 2020)
 those examples used in Python. 
 
 v1.2 (20 May 2020)
-- [ ] Added many error constants (over 150)
-- [ ] Added gpio_read method
-- [ ] Added gpioSetPullUpDown method and constants
+- Added many error constants (over 150)
+- Added gpio_read method
+- Added gpioSetPullUpDown method and constants
 
 v1.3 (29 May 2020)
 - Added gpioInitialise
@@ -49,12 +49,12 @@ v1.3 (29 May 2020)
 - Added gpioSetPWMRange
 
 v1.4 (31 May 2020)
--Added gpioSetPWMFrequency
--Added gpioTerminate
--Added get_mode
--Added PI_TIME_RELATIVE
--Added PI_TIME_ABSOLUTE
--Added get_servo_pulsewidth
--Added set_servo_pulsewidth
--Added time_sleep
--Added pigpio_start
+- Added gpioSetPWMFrequency
+- Added gpioTerminate
+- Added get_mode
+- Added PI_TIME_RELATIVE
+- Added PI_TIME_ABSOLUTE
+- Added get_servo_pulsewidth
+- Added set_servo_pulsewidth
+- Added time_sleep
+- Added pigpio_start
