@@ -15,7 +15,7 @@ with wiringPi in June of 2016. Many examples were added and updated from Raspber
 Raspberry Pi 3B boards. Major updates to the book occured when Raspberry Pi 3B+ arrived with
 the new operating system. 
 
-As of May 2020, the latest Operating System is Raspbian Buster, with Raspberry Pi 4B, 
+As of June 2020, the latest Operating System is Raspberry Pi OS, with Raspberry Pi 4B, 
 using Xojo's 2019 R3.1 (Xojo API2) code. 
 
 Original work for the first Raspberry Pi wiringPi code to Xojo library was with Paul Lefebvre 
