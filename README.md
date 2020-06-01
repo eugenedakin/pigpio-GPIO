@@ -43,10 +43,10 @@ v1.2 (20 May 2020)
 - [ ] Added gpioSetPullUpDown method and constants
 
 v1.3 (29 May 2020)
--Added gpioInitialise
--Added hardware_PWM
--Added gpioPWM
--Added gpioSetPWMRange
+- Added gpioInitialise
+- Added hardware_PWM
+- Added gpioPWM
+- Added gpioSetPWMRange
 
 v1.4 (31 May 2020)
 -Added gpioSetPWMFrequency
