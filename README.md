@@ -38,9 +38,9 @@ Version 1.1 (19 May 2020)
 those examples used in Python. 
 
 v1.2 (20 May 2020)
--Added many error constants (over 150)
--Added gpio_read method
--Added gpioSetPullUpDown method and constants
+*Added many error constants (over 150)
+*Added gpio_read method
+*Added gpioSetPullUpDown method and constants
 
 v1.3 (29 May 2020)
 -Added gpioInitialise
