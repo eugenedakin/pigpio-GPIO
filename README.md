@@ -58,3 +58,8 @@ v1.4 (31 May 2020)
 - Added set_servo_pulsewidth
 - Added time_sleep
 - Added pigpio_start
+
+v1.5 (3 June 2020)
+- Added PI_LOW
+- Added PI_HIGH
+- Added #Pragma to gpioSetPullUpDown
