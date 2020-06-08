@@ -73,4 +73,4 @@ v1.6 (7 June 2020)
  - Added pigpio_error
  - Added time_time
  - Added pigpiod_if_version
-  Added pigpio_stop
+ - Added pigpio_stop
