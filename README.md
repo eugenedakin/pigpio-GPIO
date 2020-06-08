@@ -63,3 +63,14 @@ v1.5 (3 June 2020)
 - Added PI_LOW
 - Added PI_HIGH
 - Added #Pragma to gpioSetPullUpDown
+
+v1.6 (7 June 2020)
+ - Added 13 pigif_ error constants
+ - Added other constants
+ - Added gpioTick
+ - Added callback
+ - Added callback_ex
+ - Added pigpio_error
+ - Added time_time
+ - Added pigpiod_if_version
+  Added pigpio_stop
