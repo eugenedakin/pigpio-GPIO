@@ -74,3 +74,45 @@ v1.6 (7 June 2020)
  - Added time_time
  - Added pigpiod_if_version
  - Added pigpio_stop
+ 
+ v1.7 (8 June 2020)
+ - Added set_PWM_dutycycle
+ - Added gpioGetPWMdutycycle
+ - Added get_PWM_dutycycle
+ - Added set_PWM_range
+ - Added get_PWM_range
+ - Added get_PWM_real_range
+ - Added set_PWM_frequency
+ - Added get_PWM_frequency
+ - Added notify_open
+ - Added notify_begin
+ - Added notify_pause
+ - Added notify_close
+ - Added set_watchdog
+ - Added set_glitch_filter
+ - Added set_noise_filter
+ - Added read_bank_1
+ - Added read_bank_2
+ - Added clear_bank_1
+ - Added clear_bank_2
+ - Added set_bank_1
+ - Added set_bank_2
+ - Added hardware_clock
+ - Added hardware_PWM
+ - Added get_current_tick
+ - Added get_hardware_revision
+ - Added get_pigpio_version
+ - Added wave_clear
+ - Added wave_add_new
+ - Added wave_add_generic
+ - Added wave_add_serial
+ - Added wave_create
+ - Added wave_delete
+ - Added wave_send_once
+ - Added wave_send_repeat
+ - Added wave_send_using_mode
+ - Added callback_cancel
+ - Added wait_for_edge
+ - Added bsc_xfer 
+ - Added bsc_i2c
+ - Added event_callback
