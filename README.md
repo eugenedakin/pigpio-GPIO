@@ -121,3 +121,6 @@ V1.8 (11 June 2020)
  - Added event_callback_ex
  - Added event_callback_cancel
  - Added wait_for_event
+
+V1.9 (12 June 2020)
+ - Updated hardware_PWM
