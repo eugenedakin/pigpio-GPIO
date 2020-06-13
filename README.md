@@ -124,3 +124,6 @@ V1.8 (11 June 2020)
 
 V1.9 (12 June 2020)
  - Updated hardware_PWM
+
+v1.10 (13 June 2020)
+ - Modified gpioInitialize to handle errors
