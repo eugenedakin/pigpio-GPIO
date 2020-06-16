@@ -127,3 +127,13 @@ V1.9 (12 June 2020)
 
 v1.10 (13 June 2020)
  - Modified gpioInitialize to handle errors
+
+V1.11 (14 June 2020)
+ - Added more constants (RISING_EDGE, FALLING_EDGE, EITHER_EDGE)
+ - Modified gpioSetISRFunc function 
+ - Added i2c_open
+ - Added i2c_close
+ - Added i2c_write_byte
+ - Added i2c_write_byte_data
+ - Added i2c_read_word_data
+ - Updated Constructor and add the correct call order in Open event
