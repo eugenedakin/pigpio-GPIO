@@ -137,3 +137,5 @@ V1.11 (14 June 2020)
  - Added i2c_write_byte_data
  - Added i2c_read_word_data
  - Updated Constructor and add the correct call order in Open event
+V1.12 (16 June 2020)
+ - Added i2c_Read_Byte_Data
