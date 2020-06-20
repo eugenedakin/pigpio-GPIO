@@ -140,3 +140,8 @@ V1.11 (14 June 2020)
  
 V1.12 (16 June 2020)
  - Added i2c_Read_Byte_Data
+
+V1.13 (19 June 2020)
+ - Added gpioTime
+ - Added gpioSetAlertFunc
+ - Added gpioSetWatchdog
