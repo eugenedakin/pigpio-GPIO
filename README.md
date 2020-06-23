@@ -145,3 +145,8 @@ V1.13 (19 June 2020)
  - Added gpioTime
  - Added gpioSetAlertFunc
  - Added gpioSetWatchdog
+
+V1.14 (23 June 2020)
+ - Added wave_tx_at
+ - Added wave_tx_busy
+ - Added wave_tx_stop
