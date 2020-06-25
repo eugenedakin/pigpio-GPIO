@@ -150,3 +150,6 @@ V1.14 (23 June 2020)
  - Added wave_tx_at
  - Added wave_tx_busy
  - Added wave_tx_stop
+
+V1.15 (24 June 2020)
+ - Fixed local unused variable
