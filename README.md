@@ -3,7 +3,7 @@ Code for Xojo apps to access the Raspberry Pi GPIO pins through the pigpio libra
 
 This is a pigpio library that is a replacement for the deprecated wiringPi library that
 is to be used with Xojo apps. A book has been written called 'I Wish I Knew How To...
-Program Raspberry Pi 4B Electronics with Xojo: Buster Edition has been written and the 
+Program Raspberry Pi 4B Electronics with Xojo: Buster Edition' has been written and the 
 examples use this library exclusively. More instructions about the book will be available
 at https://www.scispec.ca and press the button on books.
 
