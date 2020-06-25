@@ -3,7 +3,7 @@ Code for Xojo apps to access the Raspberry Pi GPIO pins through the pigpio libra
 
 This is a pigpio library that is a replacement for the deprecated wiringPi library that
 is to be used with Xojo apps. A book has been written called 'I Wish I Knew How To...
-Program Raspberry Pi 4B Electronics with Xojo: Buster Edition' is being written and the 
+Program Raspberry Pi 4B Electronics with Xojo: Buster Edition has been written and the 
 examples use this library exclusively. More instructions about the book will be available
 at https://www.scispec.ca and press the button on books.
 
@@ -12,7 +12,7 @@ are available at http://abyz.me.uk/rpi/pigpio/download.html.
 
 A historic review is that the first Raspberry Pi Electronics book for Xojo was written
 with wiringPi in June of 2016. Many examples were added and updated from Raspberry Pi 2B and
-Raspberry Pi 3B boards. Major updates to the book occured when Raspberry Pi 3B+ arrived with
+Raspberry Pi 3B boards. Major updates to the book occured when Raspberry Pi 4B arrived with
 the new operating system. 
 
 As of June 2020, the latest Operating System is Raspberry Pi OS, with Raspberry Pi 4B, 
