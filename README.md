@@ -28,7 +28,7 @@ With the changes in Raspberry Pi motherboard, Buster Opeating System, Xojo API2,
 of wiringPi, a new book is being written that provides examples, explanations, and 
 data for all of these recent changes. 
 
-The estimated time for the book to be released is the fall of 2020. 
+The book has been released in July 2020. 
 
 Version 1.0 (18 May 2020)
 -Initial Version of pigpio-GPIO library
