@@ -10,6 +10,8 @@ at https://www.scispec.ca and press the button on books.
 The pigpio library is installed by default on the Raspbian OS (May 2020) and instructions 
 are available at http://abyz.me.uk/rpi/pigpio/download.html.
 
+![](https://github.com/eugenedakin/pigpio-GPIO/blob/master/WebsiteXojoImageSmall.jpg)
+
 A historic review is that the first Raspberry Pi Electronics book for Xojo was written
 with wiringPi in June of 2016. Many examples were added and updated from Raspberry Pi 2B and
 Raspberry Pi 3B boards. Major updates to the book occured when Raspberry Pi 4B arrived with
