@@ -155,3 +155,7 @@ V1.14 (23 June 2020)
 
 V1.15 (24 June 2020)
  - Fixed local unused variable
+
+V1.16 (28 October 2020)
+ - Added BCM constant
+ - Added BOARD constant
