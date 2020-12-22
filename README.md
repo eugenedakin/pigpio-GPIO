@@ -1,5 +1,10 @@
 # pigpio-GPIO
-Code for Xojo apps to access the Raspberry Pi GPIO pins through the pigpio library
+Code for Xojo apps to access the Raspberry Pi GPIO pins through the pigpio library.
+
+Update 22 Dec 2020: sysfs functions on the Raspberry Pi are being deprecated and the newer
+gpiochip interface is the default standard. Only the gpioISR functions on this library 
+use the sysfs, which is the part that uses interrupts. Xojo does not recommend interrupts
+on any machine.
 
 This is a pigpio library that is a replacement for the deprecated wiringPi library that
 is to be used with Xojo apps. A book has been written called 'I Wish I Knew How To...
